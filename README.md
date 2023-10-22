@@ -1,0 +1,2 @@
+# assessment
+Golang technical assessment.
